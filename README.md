@@ -4,4 +4,4 @@ wifi adaptor monitor mode support
 go to direktori
  cd WST
  to usage
- python WST.py
+ python tools.py
